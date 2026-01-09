@@ -27,8 +27,7 @@ Estou em transição de carreira e uso este espaço para registrar aprendizados,
 - <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="js-logo2" /> 
 
 ### Ferramentas
-- Git & GitHub   <img src=" " alt="js-logo2" />
-
+- Git & GitHub   
 ---
 
 ## 🌱 Minha mentalidade
